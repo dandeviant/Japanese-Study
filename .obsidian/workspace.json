@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "08ed97b41ac417fc",
+        "id": "6beff9563f6be762",
         "type": "tabs",
         "children": [
           {
-            "id": "3a58bb9335e4419d",
+            "id": "28fb38ae23d458fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "カラオケタイム (曲の歌詞)/黒のバースデイ　「Ave Mujica」.md",
+                "file": "日本語 @ ダッシュボード.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "日本語 @ ダッシュボード"
+            }
+          },
+          {
+            "id": "440b882dfad614bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "カラオケタイム (曲の歌詞)/Ave Mujica「黒のバースデイ」.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黒のバースデイ　「Ave Mujica」"
+              "title": "Ave Mujica「黒のバースデイ」"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 341.5
   },
   "right": {
     "id": "ae7d11b7469d2cbc",
@@ -173,21 +188,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3a58bb9335e4419d",
+  "active": "440b882dfad614bc",
   "lastOpenFiles": [
-    "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
-    "カラオケタイム (曲の歌詞)/ラックライフ「名前を呼ぶよ」.md",
-    "カラオケタイム (曲の歌詞)/黒のバースデイ　「Ave Mujica」.md",
     "カラオケタイム (曲の歌詞)/あたらよ 「また夏を追う」.md",
-    "カラオケタイム (曲の歌詞)/- バックナンバー「ヒロイン 」.md",
+    "カラオケタイム (曲の歌詞)/ラックライフ「名前を呼ぶよ」.md",
+    "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
+    "カラオケタイム (曲の歌詞)/宮脇詩音「また君に会えるの日」.md",
+    "げんき/げんき １ － 第１課.md",
+    "カラオケタイム (曲の歌詞)/Ave Mujica「黒のバースデイ」.md",
+    "カラオケタイム (曲の歌詞)/バックナンバー「ヒロイン 」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「さらり」.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「slow dance」.md",
-    "日本語 @ ダッシュボード.md",
     "カラオケタイム (曲の歌詞)/スネオヘアー「シャボン」.md",
     "カラオケタイム (曲の歌詞)/セブンウップス「センチメートル 」.md",
+    "日本語 @ ダッシュボード.md",
     "Guitar 101.md",
     "retta.md",
-    "カラオケタイム (曲の歌詞)/修羅「DOES」.md",
     "Attachments/te-iku-___-jlpt-n4-grammar-meaning-__-__-japanese-flashcards-600x338.webp",
     "Attachments/ga-hoshii-____-jlpt-n5-grammar-meaning-____-japanese-flashcards-1-600x338.webp",
     "Attachments/month days.png",
@@ -210,7 +226,6 @@
     "日本語 - 文法/Writing Sentences/Word Forms.md",
     "日本語 - 文法/Writing Sentences/Verbs - Tenses and Word Forms.md",
     "日本語 - 文法/Writing Sentences/文はどうやって書くんですか？- Questions.md",
-    "日本語 - 文法/Writing Sentences/Verbs - Conjugate Verbs.md",
     "げんき",
     "Books/Genki - Elementary Japanese II.pdf",
     "Books/Genki I - Integrated Elementary Japanese Course (with bookmarks).pdf",
